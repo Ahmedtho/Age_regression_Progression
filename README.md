@@ -1,4 +1,4 @@
-# AI-powered Facial Morphology for Missing Person Identification
+# SMILE : AI-powered Facial Morphology for Missing Person Identification
 
 ## Project Overview
 The increasing number of missing person cases highlights the urgent need for innovative and effective solutions to reunite families with their loved ones. AI-powered Facial Morphology for Missing Person Identification leverages advanced artificial intelligence to address this critical issue. The platform allows families to upload images of missing individuals, enabling an AI model to perform age progression or regression based on the time elapsed since the person was last seen. This predicts how the individual might appear at a different age, aiding in recognition even after many years.
